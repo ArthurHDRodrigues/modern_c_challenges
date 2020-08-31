@@ -1,7 +1,7 @@
 # modern_c_challenges
 A collection of challenges proposed in the book "[Modern C](https://gforge.inria.fr/frs/download.php/latestfile/5298/ModernC.pdf)" by Jens Gustedt
 
-##CHALLENGE 1 (Sequential sorting algorithms).
+## CHALLENGE 1 (Sequential sorting algorithms).
 
 Can you do
 
